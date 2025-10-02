@@ -10,6 +10,10 @@
 
 This project is a professional social networking application built with React, designed to showcase modern web development practices and interactive user interfaces. It provides a platform for users to connect, share content, and interact in a dynamic environment.
 
+### 🌐 Live Demo
+
+Check out the live demo on [GitHub Pages](https://galafis.github.io/React-Social-Network/).
+
 ### ✨ Features
 
 *   User authentication and authorization
@@ -60,7 +64,8 @@ npm install npm@latest -g
 
 ### 📊 Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](assets/architecture_diagram.png)
+
 
 ### 🛡️ License
 
@@ -84,6 +89,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ### 🚀 Visão Geral
 
 Este projeto é uma aplicação profissional de rede social construída com React, projetada para demonstrar práticas modernas de desenvolvimento web e interfaces de usuário interativas. Ele oferece uma plataforma para os usuários se conectarem, compartilharem conteúdo e interagirem em um ambiente dinâmico.
+
+### 🌐 Demonstração Online
+
+Confira a demonstração online no [GitHub Pages](https://galafis.github.io/React-Social-Network/).
 
 ### ✨ Funcionalidades
 
@@ -135,7 +144,8 @@ npm install npm@latest -g
 
 ### 📊 Diagrama de Arquitetura
 
-![Diagrama de Arquitetura](architecture_diagram_pt.png)
+![Diagrama de Arquitetura](assets/architecture_diagram_pt.png)
+
 
 ### 🛡️ Licença
 

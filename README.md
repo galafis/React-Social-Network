@@ -1,8 +1,5 @@
 # React Social Network
 
-[![GitHub license](https://img.shields.io/github/license/galafis/React-Social-Network.svg)](https://github.com/galafis/React-Social-Network/blob/master/LICENSE)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ## English
 
@@ -82,9 +79,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Português
 
-[![Licença GitHub](https://img.shields.io/github/license/galafis/React-Social-Network.svg)](https://github.com/galafis/React-Social-Network/blob/master/LICENSE)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ### 🚀 Visão Geral
 
